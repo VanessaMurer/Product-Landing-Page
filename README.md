@@ -1,6 +1,6 @@
 # Product Landing Page
 ### Projeto para a certificação Responsive Web Design do [freeCodeCamp](https://www.freecodecamp.org/) realizado para a prática de HTML, CSS e responsividade de páginas Web. 
 
-Uma página exemplificando uma documentação para a linguagem de marcação HTML
+Uma página de apresentação do cantor J-Hope e seu trabalho com a intenção de vendas de albums músicais. 
 
-Live no GitHub Pages [aqui](https://github.com/VanessaMurer/Technical-Documentation-Page/edit/master/README.md)
+Live no GitHub Pages [aqui](https://vanessamurer.github.io/Product-Landing-Page/)
